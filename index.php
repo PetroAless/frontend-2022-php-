@@ -10,9 +10,9 @@
     ciao mondo
 
     <?php
-        echo "ciao mondo"
-        echo "ciao mondo"
-
+        echo "ciao mondo";
+        echo "ciao mondo";
+        echo "BEL SITO TOBIAS";
 
     ?>
 </body>
